@@ -1,0 +1,15 @@
+D:\Documents\belajar-dotnet\parking-system\parking-system\bin\Debug\net5.0\parking-system.exe
+D:\Documents\belajar-dotnet\parking-system\parking-system\bin\Debug\net5.0\parking-system.deps.json
+D:\Documents\belajar-dotnet\parking-system\parking-system\bin\Debug\net5.0\parking-system.runtimeconfig.json
+D:\Documents\belajar-dotnet\parking-system\parking-system\bin\Debug\net5.0\parking-system.runtimeconfig.dev.json
+D:\Documents\belajar-dotnet\parking-system\parking-system\bin\Debug\net5.0\parking-system.dll
+D:\Documents\belajar-dotnet\parking-system\parking-system\bin\Debug\net5.0\parking-system.pdb
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\parking-system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\parking-system.AssemblyInfoInputs.cache
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\parking-system.AssemblyInfo.cs
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\parking-system.csproj.CoreCompileInputs.cache
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\parking-system.dll
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\refint\parking-system.dll
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\parking-system.pdb
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\parking-system.genruntimeconfig.cache
+D:\Documents\belajar-dotnet\parking-system\parking-system\obj\Debug\net5.0\ref\parking-system.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtmctnZJRPpXrFPZgnZMVpn15++1FjW0mYSCNE/ySHxaAPCqMuoOgMjWYNBrQShtpGJMpu/RCdjb3GNHrr3AMA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\belajar-dotnet\\parking-system\\parking-system\\parking-system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
